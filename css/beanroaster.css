@@ -100,3 +100,15 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#upload{
+    width:"61%";
+}
+
+#center{
+    width:"24%";
+}
